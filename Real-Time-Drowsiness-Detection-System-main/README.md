@@ -118,12 +118,8 @@ Websites referred:
 7.	https://www.learnopencv.com/training-better-haar-lbp-cascade-eye-detector-opencv/
 
 
-## Author
 
-**Anshuman Srivastava**
 
-* Twitter: [@Anshuman_121](https://twitter.com/Anshuman_121)
-* Github: [@AnshumanSrivastava108](https://github.com/AnshumanSrivastava108)
-* LinkedIn: [@AnshumanSrivastava108](https://www.linkedin.com/in/anshumansrivastava108)
+
 
 
